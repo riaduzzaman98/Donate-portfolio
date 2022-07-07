@@ -4,7 +4,7 @@ body{
     margin: 0;
 }
 .header{
-    color: ;
+    color:yellowgreen ;
     background-size: 100%;
     background-image: url(donate-today-main/images/donation2.jpg);
     background-repeat: no-repeat;
@@ -20,4 +20,67 @@ body{
     color: white;
     font-weight: 700;
 }
+.donate-money{
     
+    text-align: center;
+    
+}
+.first-money{
+    display: flex;
+    padding-left: 20px 30px;
+    margin-left: 20px;
+}
+.money{
+    background-color: gainsboro;
+    padding: 65px;
+    margin: 2% 10% 2% 0;
+    border-radius: 5px;
+}
+#moneyed{
+    border: 2px solid red;
+}
+.input{
+    border-top: 5px;
+}
+
+.add{
+    text-decoration: none;
+    background-image:red;
+    border-radius: 5%;
+    padding: 10px 10px;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+}
+
+.donation-system{
+    display: ;
+    font-size: smaller;
+    text-align: center;
+    width: 80;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.ser1 div {
+    width: 22%;
+    float: left;
+    padding: 5%;
+    margin: 0 auto;   
+}
+#food{
+    background-color: antiquewhite;
+}
+#shelter{
+    background-color: aquamarine;
+}
+#education{
+    background-color: #8293ff;
+}
+.ser1 div:hover{
+    background-color: #8293ff;
+}
+section div{
+    padding-left: 20px;
+    
+}
