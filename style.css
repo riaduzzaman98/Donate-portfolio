@@ -29,6 +29,12 @@ body{
     display: flex;
     padding-left: 20px 30px;
     margin-left: 20px;
+    border-radius: 10px;
+}
+.donate-catagory{
+    margin: 20px;
+    padding: 25%;
+    border-radius: 10px;
 }
 .money{
     background-color: gainsboro;
@@ -80,7 +86,43 @@ body{
 .ser1 div:hover{
     background-color: #8293ff;
 }
-section div{
-    padding-left: 20px;
+
+.our-donate{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 400px;
+}
+.file{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 100px;
     
+}
+.button{
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+#email{
+    background-color: rgb(200, 197, 192);
+    padding: 5px 150px 5px 10px;
+    border-radius: 2px;
+}
+#subscribe{
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.footer{
+    text-align: center;
+    background-color:black;
+    padding: 15px;
+    border-radius: 10px;
+}
+.footer h2{
+    color: firebrick;
+    font-style: italic;
+    font: size 900px;;
+}
+.footer p{
+    color: white;
 }
